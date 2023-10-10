@@ -9,24 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in **Computer Science**, University of Perugia, 2018 - 2021
-  * Thesis: ***Bitcoin price-trend prediction using Machine Learning***
-  * Final Grade: **110/110 with Honors**
+# Education
+* Ph.D in **Artificial Intelligence** - ***National Ph.D in AI***, Alma Mater Studiorum - University of Bologna University, 2023 - Present
 * M.S. in **Computer Science - Artificial Intelligence**, University of Perugia, 2021 - 2023
   * Thesis: ***Adversarial Attacks on Explainability Methods for Image Classification Models***
   * Final Grade: **110/110 with Honors**
-* Ph.D in **Artificial Intelligence** - ***National Ph.D in AI***, Alma Mater Studiorum - University of Bologna University, 2023 - Present
+* B.S. in **Computer Science**, University of Perugia, 2018 - 2021
+  * Thesis: ***Bitcoin price-trend prediction using Machine Learning***
+  * Final Grade: **110/110 with Honors**
 
-Research Experience
-======
+# Research Experience
 * September 2022 - January 2023: **Internship**
   * *University of Perugia, Mathematics and Computer Science Department*
   * Analysis and Implementation of Adversarial Attacks on Image Classification models that exploit the knowledge provided by Explainability methods based on Activation Maps
 
-Other Experience
-======
+# Other Experience
 * November 2022 - March 2023: **Teaching assistant**
   * *University of Perugia, Mathematics and Computer Science Department*
   * Tutoring Activities for the Bachelor's Degree course in Computer Science: "P*rocedural Programming with Laboratory*"
@@ -41,15 +38,14 @@ Other Experience
   * Course focused on technical, scientific and ethical introduction to issues related to cybersecurity
   * Main topics covered: cryptography, malware analysis and web security.
   
-Skills
-======
-* **Computer Skills**
+## Skills
+* ### **Computer Skills**
   * **Programming Languages**: *Python, C, Java, MATLAB*
   * **Frameworks & libraries for AI**: *PyTorch, TensorFlow, Keras, OpenCV, NumPy, SciPy, NetworkX, Pandas,
 Matplotlib, scikit-learn*
   * **Operating Systems**: *Advance knowledge of Linux and Windows*
   * **Other tools**: *Docker, LATEX*
-* **Languages**
+* ### **Languages**
   * **Italian**: Native
   * **English**: C1
 
